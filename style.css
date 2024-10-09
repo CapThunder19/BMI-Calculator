@@ -1,0 +1,14 @@
+.container{
+    
+    display: flex;
+    background-color: #28282B;
+    color: #FFFFFF;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+}
+
+#b{
+    margin: 0;
+}
